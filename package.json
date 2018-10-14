@@ -1,6 +1,6 @@
 {
   "name": "element-offset-left",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get element's left offset",
   "repository": {
     "type" : "git",

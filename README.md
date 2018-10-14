@@ -1,4 +1,4 @@
-#elementOffsetLeft
+# elementOffsetLeft
 
 Get element's left offset
 
