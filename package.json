@@ -1,0 +1,16 @@
+{
+  "name": "element-offset-left",
+  "version": "1.0.0",
+  "description": "Get element's left offset",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "['element'",
+    "'document'",
+    "'offset']"
+  ],
+  "author": "Milos Zarkovic <mzarkovicm@gmail.com>",
+  "license": "ISC"
+}
